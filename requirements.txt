@@ -1,0 +1,7 @@
+pandas 
+chromadb 
+python-dotenv 
+streamlit 
+langchain-groq 
+langchain-core 
+langchain-community
